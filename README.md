@@ -1,0 +1,2 @@
+# vocabulary_proj
+sorting_collected_data_using_py_jupyter_notebook
